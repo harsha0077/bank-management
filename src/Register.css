@@ -1,0 +1,23 @@
+.row{
+    padding: 0;
+}
+
+.line-separator{
+   margin-bottom: -4px;
+}
+
+.account-details{
+    height: 100%;
+    padding: 0 !important;  
+    margin-top: 10px !important;
+}
+
+.personal-details{
+    margin-bottom: -24px;
+    float: left;
+}
+
+.err-message{
+    color: red;
+}
+

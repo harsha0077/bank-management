@@ -1,0 +1,28 @@
+.nav-item{
+    text-decoration: none;
+}
+
+.nav-home{
+
+color:black;
+/* background-color: green; */
+}
+
+.nav-loan{
+    color:black;
+   font-weight: bold;
+    /* background-color: yellow; */
+}
+
+.nav-update{
+    color:black;
+    font-weight: bold;
+    /* background-color: red; */
+}
+
+.nav-logout{
+    color:black;
+    font-weight: bold;
+    
+    /* background-color: pink; */
+}

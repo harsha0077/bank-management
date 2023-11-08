@@ -1,0 +1,39 @@
+/* .container-form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.input-form{
+    margin-top:20px;
+}
+.password-form{
+   margin-top:20px;
+}
+.login-button{
+    margin-top:20px;
+    margin-left:10px;
+}
+.account-yet{
+margin-left: 20px;
+margin-top:20px;
+} */
+
+.form-login{
+    background-color: green;
+    justify-content: center;
+    /* display: flex;
+    align-items: center; */
+}
+.field-one{
+display: flex;
+background-color: 'red';
+}
+.field-two{
+display: flex;
+background-color: 'yellow';
+}
+.fields{
+    background-color: "pink";
+
+}
